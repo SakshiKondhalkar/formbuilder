@@ -28,5 +28,5 @@ This project is an Enterprise Form Builder application that allows administrator
 1. **Clone the Repository**
 
    ```sh
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/SakshiKondhalkar/formbuilder
+   cd formbuilder
